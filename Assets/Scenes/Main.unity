@@ -4129,7 +4129,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 853773dad47b6b84abf55161b27a0b2a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  restApiUrl: http://sample.com/leaderboard
+  restApiUrl: http://sample.com/leaderboard/
 --- !u!4 &2041950522
 Transform:
   m_ObjectHideFlags: 0

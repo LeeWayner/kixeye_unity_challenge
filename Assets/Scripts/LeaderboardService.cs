@@ -9,7 +9,7 @@ using System.Text;
 public class LeaderboardService : MonoBehaviour
 {
 	[SerializeField]
-	private string restApiUrl;
+	private string restApiUrl = "http://sample.com/leaderboard/";
 	//public InputField scoreInput;
 	private string outputTxt;
 	// Use this for initialization
