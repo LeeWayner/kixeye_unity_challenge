@@ -5,6 +5,7 @@ KIXEYE Unity/C# Coding Challenge: 2D side-scrolling infinite "roller" game
 - Unity 2017.3.0f3
 - C# programming.
 - Tested on Unity Editor only.
+- Run from Assets/Scenes/Main.unity
 
 # Gameplay
 - A 2D side-scrolling game.
